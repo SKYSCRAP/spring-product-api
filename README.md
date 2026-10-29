@@ -9,16 +9,16 @@ A robust RESTful API built with Java and Spring Boot for managing product invent
 * **MySQL** (Database)
 * **Maven** (Build Tool)
 * **Swagger / OpenAPI** (API Documentation)
+* **Postman** (API Testing)
 
 ## ✨ Features
 * Full CRUD operations (Create, Read, Update, Delete) for Products.
 * Data validation using Jakarta Bean Validation (`@NotBlank`).
 * Clean layered architecture (Controller, Service, Repository).
-* Custom Environment Variables configuration for database security.
 * Integrated Swagger UI for interactive API testing.
 
 ## 🛠️ Local Setup & Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/spring-product-api.git
+   git clone https://github.com/SKYSCRAP/spring-product-api.git
